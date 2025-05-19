@@ -75,8 +75,8 @@
 
  /* Hero section */
  .hero {
-  backround-image: url(/images/transmission-3652852_1920);
-     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/api/placeholder/1200/600') center/cover no-repeat;
+ 
+     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/images/transmission-3652852_1920') center/cover no-repeat;
      height: 80vh;
      max-height: 600px;
      display: flex;
